@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GENERADOR_JWT_UNIMINUTO.props" />
+</Project>
